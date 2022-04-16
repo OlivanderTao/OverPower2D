@@ -22,7 +22,7 @@ bool Core::run()
         BeginDrawing();
         ClearBackground(BLACK);
 
-        DrawRectangle(0, 0, WIDTH, 100, (Color) { 132, 132, 132, 255 });
+        DrawRectangle(0, 0, WIDTH, 200, (Color) { 132, 132, 132, 255 });
         
         EndDrawing();
     }
