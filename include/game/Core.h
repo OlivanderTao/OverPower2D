@@ -1,5 +1,7 @@
 #pragma once
 
+#include "raylib.h"
+
 #include "game/Simulation.h"
 
 namespace Game
